@@ -1,0 +1,42 @@
+.navbar{
+    background-color: #58585a;
+    height: 50px;
+}
+
+img{
+    width: 50px;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nl{
+    margin-top: 10px;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+
+.inactive{
+    text-decoration: none;
+    color: white
+}
+
+.active{
+    text-decoration: none;
+}
+
+.pikachu{
+    width: 50px;
+    margin-top: 15px;
+}
+
+.img-container {
+    width: 100%;
+}
